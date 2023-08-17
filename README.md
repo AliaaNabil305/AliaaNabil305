@@ -14,7 +14,7 @@
 
 
 ### Glad to see you here!  
-I’m a Software Engineer (Web developer)   
+I’m a Computer and systems Engineer   
   
 
 <br/>  
