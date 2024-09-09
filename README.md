@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aliaa Nabil</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AliaaNabil305&label=Profile%20views&color=red&style=flat"  /> </p>
+![Profile views counter](https://komarev.com/ghpvc/?username=AliaaNabil305&&style=flat-square)  
   
 <!--
 <div align="center">
@@ -207,8 +207,14 @@
   
 
 <br/>  
+## 🤝🏻 &nbsp;Connect with Me
 
-![Profile views counter](https://komarev.com/ghpvc/?username=AliaaNabil305&&style=flat-square)  
+<p align="center">
+
+<a href="[https://linkedin.com/in/socialyadept](https://linkedin.com/in/aliaa-nabil-ba75b8237)"><img src="https://img.shields.io/badge/-Aliaa%20Nabil-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:aliaanabil200@gmail.com"><img src="https://img.shields.io/badge/-aliaanabil200@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+
   
 
 <br/> 
