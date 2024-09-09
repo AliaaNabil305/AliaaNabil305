@@ -19,10 +19,10 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 - 🌐 I am a graduate student at Faculty of Engineering Ain Shams University
-- 📫 How to reach me <a href="aliaanabil200@gmail.com" target="_blank">Gmail</a>
+
 - 📫 Reach me via [Email](mailto:aliaanabil200@gmail.com)
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/AliaaNabil305)
 - 📄 Know about my recent experiences [watch my resume](https://drive.google.com/drive/folders/1N-vK37WTLnlXU8j4nfjKTzkOw3y9Q9Yq?usp=drive_link)
@@ -35,7 +35,7 @@
 </div>  
 
 
-</td></tr></table>  
+</td></tr>
 
 <br/>  
 
