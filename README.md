@@ -21,7 +21,7 @@
 ## Rapidfire  
 <tr><td valign="top" width="50%">
 
-- 🌐 I am a graduate student at Faculty of Engineering Ain Shams University
+- 🌐 I am a graduate student from Faculty of Engineering Ain Shams University
 
 - 📫 Reach me via [Email](mailto:aliaanabil200@gmail.com)
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/AliaaNabil305)
