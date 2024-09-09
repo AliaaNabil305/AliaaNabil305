@@ -50,7 +50,7 @@
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
   <td align='center' width="190">
-        <img  src="https://profilinator.rishav.dev/skills-assets/c-original.svg" />
+        <img  src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50"/>
     </td>
     <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
@@ -73,7 +73,7 @@
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
   <td align='center'>
-        <img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"  /> 
+        <img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"  height="50"/> 
     </td>
   <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
