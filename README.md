@@ -109,8 +109,9 @@
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
 </tr>
+<!-- 
 <tr>
-<!--     <td align='center'>
+    <td align='center'>
         <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
     </td> -->
     
@@ -122,8 +123,8 @@
     </td> -->
 <!--     <td align='center'>
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png"> 
-    </td> -->
-</tr>
+    </td>
+</tr> -->
 <!--
 <tr>
 <!--     <td align='center'>
