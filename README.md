@@ -1,4 +1,7 @@
-## Hey 👋, I'm Aliaa Nabil  
+<h1 align="center">Hi 👋, I'm Aliaa Nabil</h1>
+<h3 align="center">I am a Software Engineer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=socialyadept&label=Profile%20views&color=red&style=flat" alt="socialyadept" /> </p>
   
 
 <div align="center">
@@ -10,11 +13,6 @@
 </a>  
 </div>  
   
-
-
-
-### Glad to see you here!  
-I’m a Computer and systems Engineer   
   
 
 <br/>  
@@ -23,16 +21,8 @@ I’m a Computer and systems Engineer
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on some of Web Projects  
-  
-
-- 🌱 I’m currently learning backend technologies  
-  
-
-- ❓ Ask me about anything related to Web Developing  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- 🌐 I am a graduate student at Faculty of Engineering Ain Shams University
+- 📫 How to reach me <a href="aliaanabil200@gmail.com" target="_blank">Gmail</a>
 
 
 </td><td valign="top" width="50%">
