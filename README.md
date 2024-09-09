@@ -49,7 +49,7 @@
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
-  <td align='center'>
+  <td align='center' width="190">
         <img  src="https://profilinator.rishav.dev/skills-assets/c-original.svg" />
     </td>
     <td align='center' width="190">
@@ -60,9 +60,9 @@
     </td>
 </tr>
 <tr>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png">
-    </td>
+    </td> -->
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
@@ -75,6 +75,9 @@
   <td align='center'>
         <img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"  /> 
     </td>
+  <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
+    </td>
   <!--
     <td align='center'>
         <img src="https://steppingstone.in/images/logos/express.png"> 
@@ -86,9 +89,7 @@
     
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
-    </td>
+    
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
@@ -104,14 +105,15 @@
     <td align='center'>
         <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png"> <!-- Mongodb Logo -->
     </td>
+  <td align='center'>
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
 </tr>
 <tr>
 <!--     <td align='center'>
         <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
     </td> -->
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
+    
   
   
   
