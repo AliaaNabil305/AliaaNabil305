@@ -88,22 +88,18 @@
 
     
 </tr>
-<tr>
-    
+<tr> 
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
-   <!--  <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/2560px-Tailwind_CSS_logo.svg.png">
-    </td> -->
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60">  <!-- VSCode Logo -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60">  
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
     <td align='center'>
-        <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png"> <!-- Mongodb Logo -->
+        <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png"> 
     </td>
   <td align='center'>
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
