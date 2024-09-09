@@ -207,12 +207,14 @@
   
 
 <br/>  
+<br />
+
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 
 <a href="[https://linkedin.com/in/socialyadept](https://linkedin.com/in/aliaa-nabil-ba75b8237)"><img src="https://img.shields.io/badge/-Aliaa%20Nabil-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:aliaanabil200@gmail.com"><img src="https://img.shields.io/badge/-aliaanabil200@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:aliaanabil200@gmail.com"><img src="https://img.shields.io/badge/-aliaanabil@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
   
