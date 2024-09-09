@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AliaaNabil305&label=Profile%20views&color=red&style=flat"  /> </p>
   
-
+<!--
 <div align="center">
 <a href="https://github.com/AliaaNabil305" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/aliaa-nabil-ba75b8237" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>  -->
   
   
 
@@ -181,7 +181,8 @@
 <br/>  
 
 
-## Github Stats  
+ 
+<!--
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AliaaNabil305&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -190,7 +191,16 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliaaNabil305&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>  -->
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=AliaaNabil305&show_icons=true&theme=tokyonight&line_height=25" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AliaaNabil305&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 400>
+</p>
+</details>
+
 
 <br/>  
 
